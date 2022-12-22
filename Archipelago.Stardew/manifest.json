@@ -1,0 +1,9 @@
+﻿{
+  "Name": "Archipelago.Stardew",
+  "Author": "alwaysintreble",
+  "Version": "0.0.1",
+  "Description": "Archipelago integration with Stardew Valley",
+  "UniqueID": "alwaysintreble.Archipelago.Stardew",
+  "EntryDll": "Archipelago.Stardew.dll",
+  "MinimumApiVersion": "3.0.0"
+}

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <EnableHarmony>true</EnableHarmony>
+        <TargetFramework>net5.0</TargetFramework>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="Archipelago.MultiClient.Net" Version="4.1.2" />
+      <PackageReference Include="Pathoschild.Stardew.ModBuildConfig" Version="4.0.2" />
+    </ItemGroup>
+
+</Project>
